@@ -1,0 +1,6 @@
+PatientID,PatientName,Age,Gender,City
+1,"John Doe",45,Male,"New York"
+2,"Jane Doe",34,Female,"Los Angeles"
+3,"Sam Smith",9,Male,"New York"
+4,"Emily Davis",62,Female,Chicago
+5,"Michael Brown",50,Male,Miami

@@ -1,0 +1,5 @@
+DoctorID,DoctorName,Specialty,ConsultationFee
+101,"Dr. Alice Smith",Cardiology,150.00
+102,"Dr. Bob Jones",Pediatrics,100.00
+103,"Dr. Charlie Brown",Orthopedics,120.00
+104,"Dr. Diana Prince","General Medicine",80.00

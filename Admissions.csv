@@ -1,0 +1,7 @@
+AdmissionID,PatientID,DoctorID,AdmissionDate,DischargeDate,Diagnosis,Status
+1001,1,101,2026-05-01,2026-05-05,"Heart Attack",Discharged
+1002,2,103,2026-05-03,2026-05-10,Fracture,Discharged
+1003,3,102,2026-05-10,2026-05-12,Fever,Discharged
+1004,4,104,2026-05-15,NULL,"Diabetes Checkup",Admitted
+1005,5,101,2026-05-20,2026-05-22,"Heart Arrhythmia",Discharged
+1006,1,104,2026-06-01,NULL,"High Blood Pressure",Admitted
